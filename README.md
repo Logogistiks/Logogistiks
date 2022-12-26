@@ -11,7 +11,6 @@ Germany</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/Agent J#4576" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Agent J#4576" height="30" width="40" /></a>
 <a href="https://twitter.com/jan_die_seife" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jan_die_seife" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15924630" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15924630" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/logogistiks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="logogistiks" height="30" width="40" /></a>
