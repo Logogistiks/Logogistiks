@@ -5,7 +5,7 @@ Germany</h3>
 
 - 🌱 I’m currently learning: <br>**APL** & **C++**
 
-- 📫 How to reach me: <br>**jan@seifert-online.de**
+- 📫 How to reach me: <br>Email: **jan@seifert-online.de**<br>Discord: **Agent J#4576**
 
 - ⚡ Fun fact: <br>**Caffeine addict (Club Mate)**
 
