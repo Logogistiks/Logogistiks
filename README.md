@@ -3,7 +3,7 @@
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/twitter/31/flag-for-germany_1f1e9-1f1ea.png" alt="Germany" height="20" width="20" />
 Germany</h3>
 
-- 🌱 I’m currently learning: <br>**APL** & **C++**
+- 🌱 I’m currently learning: <br>**VBA** & **C++**
 
 - 📫 How to reach me: <br>Email: **jan@seifert-online.de**<br>Discord: **Agent J#4576**
 
