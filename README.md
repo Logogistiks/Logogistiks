@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jan Seifert</h1>
 <h3 align="center"><p>A Student from</p>
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/twitter/31/flag-for-germany_1f1e9-1f1ea.png" alt="Germany" height="20" width="20" />
+<img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/svg/1f1e9-1f1ea.svg" alt="Germany" height="20" width="20" />
 Germany</h3>
 
 - 🌱 I’m currently learning: <br>**VBA** & **C++**
