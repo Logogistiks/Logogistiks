@@ -5,13 +5,13 @@ Germany</h3>
 
 - 🌱 I’m currently learning: <br>**VBA** & **C++**
 
-- 📫 How to reach me: <br>Email: **jan@seifert-online.de**<br>Discord: **Agent J#4576**
+- 📫 How to reach me: <br>Website: **[Logogistiks.de](https://Logogistiks.de)**<br>Email: **jan@seifert-online.de**<br>Discord: **Agent J#4576**
 
 - ⚡ Fun fact: <br>**Caffeine addict (Club Mate)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/jan_die_seife" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jan_die_seife" height="30" width="40" /></a>
+<a href="https://twitter.com/jan_die_seife" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jan_die_seife" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15924630" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15924630" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/logogistiks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="logogistiks" height="30" width="40" /></a>
 <a href="https://www.codewars.com/users/JanSeifert847" target="blank"><img align="center" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="JanSeifert847" height="30" width="30" /></a>
