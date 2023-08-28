@@ -5,7 +5,7 @@ Germany</h3>
 
 - 🌱 I’m currently learning: <br>**VBA** & **C++**
 
-- 📫 How to reach me: <br>Website: **[Logogistiks.de](https://Logogistiks.de)**<br>Email: **jan@seifert-online.de**<br>Discord: **Agent J#4576**
+- 📫 How to reach me: <br>Website: **[Logogistiks.de](https://Logogistiks.de)**<br>Email: **jan@seifert-online.de**<br>Discord: **[@logogistiks](https://discordapp.com/users/757223025706795078)**
 
 - ⚡ Fun fact: <br>**Caffeine addict (Club Mate)**
 
