@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jan Seifert</h1>
+<h1 align="center">Hi 👋, I'm Jan</h1>
 <h3 align="center"><p>A Student from</p>
 <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/svg/1f1e9-1f1ea.svg" alt="Germany" height="20" width="20" />
 Germany</h3>
