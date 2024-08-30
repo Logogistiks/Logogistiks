@@ -6,7 +6,7 @@
 - 📫 How to reach me: <br>Website: **[Logogistiks.de](https://Logogistiks.de)**<br>Email: **jan@seifert-online.de**<br>Discord: **[@logogistiks](https://discordapp.com/users/757223025706795078)**
 
 - ⚡ Fun fact: <br>**Caffeine addict (Club Mate)**<br>
-<a href="https://www.club-mate.de/" target="_blank"> <img src="https://github.com/Logogistiks/Logogistiks/blob/main/club_mate_badge.svg" alt="Club Mate" width="100"/> </a>
+<a href="https://www.club-mate.de/" target="_blank" rel="noreferrer"> <img src="https://github.com/Logogistiks/Logogistiks/blob/main/club_mate_badge.svg" alt="Club Mate" width="100"/> </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
