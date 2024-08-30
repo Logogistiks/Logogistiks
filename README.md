@@ -5,12 +5,13 @@
 
 - 📫 How to reach me: <br>Website: **[Logogistiks.de](https://Logogistiks.de)**<br>Email: **jan@seifert-online.de**<br>Discord: **[@logogistiks](https://discordapp.com/users/757223025706795078)**
 
-- ⚡ Fun fact: <br>**Caffeine addict (Club Mate)**
+- ⚡ Fun fact: <br>**Caffeine addict (Club Mate)**<br>
+<a href="https://www.club-mate.de/" target="_blank"> <img src="https://github.com/Logogistiks/Logogistiks/blob/main/club_mate_badge.svg" alt="Club Mate" width="100"/> </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.codewars.com/users/Logogistiks" target="blank"><img align="center" src="https://www.codewars.com/users/Logogistiks/badges/large" alt="JanSeifert847" /></a>
-<a href="https://stackoverflow.com/users/15924630" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15924630" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15924630" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15924630" height="30" width="80" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
