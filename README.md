@@ -4,7 +4,7 @@
 <h3 align="left">🎯 My interests: </h3>
 <p align="left">
 
-- Math
+- Math ❤️
 - Physics (a little bit)
 - Coding
 </p><br>
